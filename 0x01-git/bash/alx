@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 ALX
+=======
+echo "ALX School"
+>>>>>>> update_script
+>>>>>>> 3cb9e88547a064b951ea3a97ed972a29d110e953
