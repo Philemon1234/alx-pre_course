@@ -1,2 +1,2 @@
 My first readme
-Is is the ALX project 
+Is is the ALX project.
